@@ -6,7 +6,7 @@
     "repository": "",
     "license": "UNLICENSED",
     "scripts": {
-        "dev": "webpack serve --config ./script/webpack.config.js",
+        "blink": "webpack serve --config ./script/webpack.config.js",
         "build": "cross-env NODE_ENV=production node ./script/build.js",
         "watch": "cross-env NODE_ENV=production webpack --watch --config ./script/webpack.config.js",
         "postinstall": "cpy ./node_modules/framework7-icons/fonts/*.* ./src/fonts/",
