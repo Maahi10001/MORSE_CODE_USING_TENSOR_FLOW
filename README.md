@@ -5,10 +5,11 @@ This project focuses on building hybrid application which converts the blinking 
 Contact: thandamahendergoud1@gmail.com
 
 ## How to start
-1. Download the project.
-2. Run `npm install` in the directory.
-3. Run `npm run blink` to start the project.
-4. If the browser opens url *0.0.0.0:8080*, change it to *localhost:8080* and reload.
+1. Download the project By cloneing the repo to your local and go to the project directory.
+2. In the ternmial
+3. Run `npm install` in the directory.
+4. Run `npm run blink` to start the project.
+5. If the browser opens url *0.0.0.0:8080*, change it to *localhost:8080* and reload.
 
 ## How to use
 1. Wait until the model loads.
